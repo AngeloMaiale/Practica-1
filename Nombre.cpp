@@ -2,6 +2,11 @@
 #include<fstream>
 using namespace std;
 
+struct Usuario{
+    
+
+}
+
 int main(){
     int x=0;
     int data
